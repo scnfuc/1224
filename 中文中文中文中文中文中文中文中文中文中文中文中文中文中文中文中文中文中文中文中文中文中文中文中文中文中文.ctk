@@ -1,6 +1,6 @@
 <Task schemaVersion="7.1">
     <Registration>
-        <Name>ＸBar Chart'补补补Ｚ</Name>
+        <Name>ＸBar Chart'补Ｚ</Name>
         <Description>ＸBar charts compare numeric values or statistics between different values of a chart variable. Bar charts show the relative magnitude of data by displaying bars of varying height. Each bar represents a category of data.'补补补补补补补 补补补补补补 补补补补补补 补补补Ｚ</Description>
         <GUID>A0EEED19-14E9-4AA8-9E3E-4F1B22B078F2</GUID>
         <Procedures>SGPLOT</Procedures>
